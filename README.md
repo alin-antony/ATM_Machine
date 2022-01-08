@@ -14,5 +14,8 @@ To deposit the money, we simply get the deposit amount from the user, add it to 
 
 To check balance, we simply print the total balance of the user.
 
+![git1](https://user-images.githubusercontent.com/89380668/148640543-2a6219bd-c23c-4432-ae9f-6f946e03dffe.PNG)
+![git2](https://user-images.githubusercontent.com/89380668/148640544-932ba808-ee9b-440b-a1e2-a8c16c545744.PNG)
 
-H A P P Y    C O D I N G
+
+HA P P Y  C O D I N G ! ! !
